@@ -9,7 +9,7 @@ async function getBeers() {
     //   console.log(response);
 
     //   une fois la réponse reçue, on peut la traiter et récupérer les données
-    const beers = await response.json();
+    const beers = await response.json(); 
 
     console.table(beers);
 
