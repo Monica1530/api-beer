@@ -1,0 +1,39 @@
+/* .beers {
+} */
+.card {
+    background-color: rgb(25, 104, 78);
+    border: 3px dotted black;
+    margin: 10px;
+    align-items: center;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    /* padding-left: 15px; */
+
+}
+
+p {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    width: 110px;
+    height: auto;
+}
+
+h2 {
+    color: rgb(210, 150, 30);
+}
+
+h3 {
+    color: rgb(232, 246, 171);
+}
+
+h5 {
+    font-size: large;
+}
